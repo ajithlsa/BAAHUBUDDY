@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Add Customer</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <script type="text/javascript" src="../js/jquery_3.3.1.min.js"></script>
+        <script type="text/javascript" src="../js/addCustomerScript.js"></script>
+        <link rel="stylesheet" href="../css/style.css"/>
+    </head>
+    <body>
+        <div class="container">
+            <form autocomplete="off" class="customer_add_form">
+                <div class="row">
+                    <div class="col-25">
+                        <label for="name">Name</label>
+                    </div>
+                    <div class="col-75">
+                        <div class="autocomplete">
+                            <input type="text" id="name" name="name" required  placeholder="Enter Customer name..">
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-25">
+                        <label for="phone">Phone number</label>
+                    </div>
+                    <div class="col-75">
+                        <div class="autocomplete">
+                            <input type="text" id="phone" name="phone" required  placeholder="Enter Phone number.....">
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-25">
+                        <label for="address">Address</label>
+                    </div>
+                    <div class="col-75">
+                        <textarea id="address" required name="address" placeholder="Write address.."></textarea>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-25">
+                        <input type="reset" name="Reset">
+                    </div>
+                    <div class="col-75">
+                        <input type="submit" value="Submit">
+                    </div>
+                </div>
+            </form>
+        </div>
+    </body>
+</html>

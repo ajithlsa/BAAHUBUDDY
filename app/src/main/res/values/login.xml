@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Strings related to login -->
+    <string name="login_header">Login</string>
+    <string name="login_username">Enter Username</string>
+    <string name="login_password">Enter Password</string>
+    <string name="action_login">Login</string>
+</resources>

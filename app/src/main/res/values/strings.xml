@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">BAAHUBUDDY</string>
+
+    <!-- Strings related to main -->
+    <string name="proceed_text">PROCEED</string>
+
+
+    <!--Permission messages-->
+    <string name="permission_rationale">"Contacts permissions are needed for providing email completions."</string>
+
+    <!--descriptions-->
+    <string name="description_view_1">Welcome to the world’s first Credit and Debit Collector App.</string>
+    <string name="description_view_2">Here you can keep track of your daily transactions.</string>
+    <string name="description_view_3">Save your transactions at every step in .csv format.</string>
+
+    <string name="emargency_layout_popup_header">Confirmation</string>
+    <string name="emargency_layout_popup_text">Do you want to log out CDC?</string>
+
+</resources>

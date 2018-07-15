@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Strings related to registration -->
+    <string name="registration_header">Registration</string>
+    <string name="registration_username">Enter Username</string>
+    <string name="registration_password">Enter Password</string>
+    <string name="registration_re_enter_password">Re-enter Password</string>
+    <string name="registration_pin">Enter Pin</string>
+    <string name="registration_re_enter_pin">Re-enter Pin</string>
+    <string name="pin_description">PIN will be used in case you forget the password.</string>
+    <string name="action_registration">Registration</string>
+</resources>

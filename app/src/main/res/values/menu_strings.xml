@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="home_fragment_title">HOME</string>
+    <string name="exit_menu_string">EXIT</string>
+    <string name="share_menu_string">Share</string>
+    <string name="donate_menu_string">Donate</string>
+
+    <string name="action_settings">Settings</string>
+</resources>
